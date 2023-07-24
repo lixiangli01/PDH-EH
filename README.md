@@ -10,7 +10,7 @@ We offer two methods for predicting hotspot residues. One is using fused feature
 
 1、Feature extraction.
 
-For prediction based on fused features, it is necessary to extract manual features using the software below as input for the program. The extraction method is as follows:
+For prediction based on fused features, it is necessary to extract handcrafted features using the software below as input for the program. The extraction method is as follows:
 
 Amino acid physicochemical properties: Retrieved from aaindex.txt.
 
