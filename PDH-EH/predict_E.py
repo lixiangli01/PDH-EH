@@ -176,7 +176,7 @@ def getfastasite(name,chain,Res,pdbsite):
         i=reslist_pdb[res_index+4]
     else:
         i='4'
-    #e为中间残基
+    
     strtmp1 = c+d+e+f+g
     strtmp2 = e+f+g+h+i
     strtmp3 = a+b+c+d+e
