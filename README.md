@@ -26,7 +26,7 @@ Position-specific scoring matrix (PSSM) related features: Obtained from the PSI-
 
 spatial neighbor-based PSSM (SNB-PSSM) related features: Obtained from the SNB-PSSM program.
 
-Please save the above features (a total of 117 dimensions, while the remaining embedded features will be generated automatically in the prediction program) in a CSV format file, for example: 1CKTS41.csv. Additionally, please download the Bert model ("pytorch_model.bin") from ProtTrans and place it in the "set_file" folder.
+Please save the above features (a total of 117 dimensions, while the remaining embedded features will be generated automatically in the prediction program) in a CSV format file, for example: 1CKTS41.csv. Additionally, please download the Bert model ("pytorch_model.bin") from [ProtTrans](https://huggingface.co/Rostlab) and place it in the "set_file" folder.
 
 2、Prediction.
 
