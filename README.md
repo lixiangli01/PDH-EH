@@ -30,7 +30,7 @@ Please save the above features (a total of 117 dimensions, while the remaining e
 
 2、Prediction.
 
-If you want to predict the amino acid S41 in the 1CKT complex, use the following command for prediction:
+If you want to predict the S41 residue of the A chain in the 1CKT complex, use the following command for prediction:
 ```
 python predict_EH.py 1CKT A S 41 1CKTS41.csv
 ```
